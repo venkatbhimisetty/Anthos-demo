@@ -1,1 +1,4 @@
 nomos
+github*
+config-management-operator.yaml
+config-management-eks.yaml
